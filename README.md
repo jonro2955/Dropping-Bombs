@@ -1,2 +1,2 @@
 # Dropping-Bombs
- Code Ninjas instructor training 
+ Code Ninjas instructor training. Unity game development using C#.
